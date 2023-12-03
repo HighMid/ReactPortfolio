@@ -73,22 +73,14 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Place in Holding",
         "title": "Front-End Developer",
         "years": "10.2019 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "PlaceHolder"
         ]
       },
       {
@@ -99,11 +91,8 @@
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "PlaceHolder"
+
         ]
       }
     ]
